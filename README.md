@@ -1,4 +1,4 @@
-# 🦠 Covid-19 Country Tracker
+# 🦠 COVID-19 Country Tracker
 
 ![](https://raw.githubusercontent.com/lohluc/covid19-tracker-menubar/master/img/preview.png)
 
