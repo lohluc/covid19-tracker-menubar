@@ -1,6 +1,8 @@
 # 🦠 Covid-19 Country Tracker
-[Bitbar](https://bitbar.com/) Plugin to track Covid-19 cases in a specific country and compare it with the worldwide cases. Automatically updates every hour. Data fetched from [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+
 ![](https://raw.githubusercontent.com/lohluc/covid19-tracker-menubar/master/img/preview.png)
+
+[Bitbar](https://bitbar.com/) Plugin to track Covid-19 cases in a specific country and compare it with the worldwide cases. Automatically updates every hour. Data fetched from [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19).
 
 ### How to Install
 
